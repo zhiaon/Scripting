@@ -4,5 +4,6 @@
   "color": "#12665F",
   "version": "1.2.2",
   "runInApp": true,
+  "author": { "name": "许舟" },
   "description": "多手机号授权并存，分别查看总可用积分、签到、积分包和周期。"
 }
