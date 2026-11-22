@@ -1,0 +1,42 @@
+{
+  "description": "TokenHarbor 七天额度：已用/剩余占比、重置时间与本地真实用量趋势。",
+  "version": "1.2.1",
+  "remoteResource": null,
+  "iconImage": null,
+  "permissions": null,
+  "color": "#116F60",
+  "contributors": [],
+  "localizedNames": {
+    "de": "",
+    "fr": "",
+    "pt": "",
+    "ru": "",
+    "en": "",
+    "zh": "",
+    "it": "",
+    "ja": "",
+    "es": ""
+  },
+  "entry": "index.tsx",
+  "intentInputTypes": [],
+  "name": "TokenHarbor",
+  "icon": "gauge.with.dots.needle.67percent",
+  "author": {
+    "homepage": null,
+    "name": "许舟",
+    "email": null
+  },
+  "localizedDescriptions": {
+    "de": "",
+    "fr": "",
+    "pt": "",
+    "ru": "",
+    "en": "",
+    "zh": "",
+    "it": "",
+    "ja": "",
+    "es": ""
+  },
+  "remoteDefinitionId": null,
+  "runInApp": true
+}
